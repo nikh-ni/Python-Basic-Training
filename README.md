@@ -13,3 +13,8 @@ git push -u origin main
 6. 修改commit
 git commit --amend -m "First upload: added hello.py"
 git push --force
+
+7. 上傳修改檔案
+git add Upload.py
+git commit -m "修改檔案"
+git push
