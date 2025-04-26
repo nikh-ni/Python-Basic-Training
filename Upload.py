@@ -1,1 +1,1 @@
-print("Upload to GitHub pratice")
+print("Upload to GitHub practice")
